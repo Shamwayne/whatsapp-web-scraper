@@ -1,4 +1,4 @@
-# whatsapp-web-scraper
+# WhatsApp Web Scraper
 An automated tool to scrape whatsapp messages and save them in a near similar format to the exported chat .txt file
 
 ## requirements (tested on python 3.6)
